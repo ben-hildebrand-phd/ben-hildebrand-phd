@@ -1,4 +1,4 @@
-# Welcome to my github page!
+# Welcome to my GitHub page!
 
 I am an applied mathematician with interests in artificial intelligence, quantum mechanics (especially quantum computing), and image registration and processing. See below for my credentials and interests.
 
